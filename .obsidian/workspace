@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Untitled 1.md",
+            "file": "Phil is a bitch.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled 1.md",
+                "file": "Phil is a bitch.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled 1.md",
+                "file": "Phil is a bitch.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,12 +117,20 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled 1.md"
+                "file": "Phil is a bitch.md"
               }
+            }
+          },
+          {
+            "id": "dd82d790fb6241e3",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -131,15 +139,15 @@
   },
   "active": "9f1b1aca5a3c1c13",
   "lastOpenFiles": [
+    "The screens/Screenshot from 2022-10-12 19-09-54.png",
+    "Untitled 1.md",
+    "Untitled.md",
+    "2022-10-15.md",
     "Metodologia delle ricerche/Lezioni Seminariali.md",
     "Sociologia della cultura/Capitolo III.md",
     "Sociologia della cultura/Capitolo II.md",
     "Sociologia della cultura/Capitolo I.md",
     "Phil is a bitch.md",
-    "Untitled.md",
-    "Sociologia della cultura/1ntroduzione.md",
-    "Metodologia delle ricerche/Lezioni Frontali.md",
-    "Calendario.md",
-    "Sociologia della cultura/Lezione 21.09.md"
+    "Sociologia della cultura/1ntroduzione.md"
   ]
 }
