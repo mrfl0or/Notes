@@ -10,5 +10,11 @@ Phil's pronouns are <u>ALL pronouns</u>.
 
 ==PHIL==
 
+# Backup
+1. CTRL P
+2. Commit all changes
+3. CTRL P 
+4. push
+
 
 
