@@ -1,20 +1,21 @@
-# Phil
-## PHIL
-### PHIL
+# Phil is a bitch
+## Backup
 
-Phil is a bitch because
-- it's a bitch
-- they're a bitch
+Everytime faccio una modifica:
+1. CTRL P
+2. pull
+4. CTRL P 
+5. Commit all changes
+6. CTRL P
+7. push
+
 
 Phil's pronouns are <u>ALL pronouns</u>. 
 
-==PHIL==
 
-# Backup
-1. CTRL P
-2. Commit all changes
-3. CTRL P 
-4. push
+
+
+
 
 
 
