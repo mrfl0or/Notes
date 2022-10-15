@@ -1,0 +1,145 @@
+{
+  "main": {
+    "id": "bfdc8992bad69237",
+    "type": "split",
+    "children": [
+      {
+        "id": "9f1b1aca5a3c1c13",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Untitled 1.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b22a2c3ecb0ba3bc",
+    "type": "split",
+    "children": [
+      {
+        "id": "a097bc2ea0066689",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e5e87b301708b93c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "aec78140aadba4d8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "befe7af80f747644",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "70969ba82c698a09",
+    "type": "split",
+    "children": [
+      {
+        "id": "20f334f3c28e9345",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "549c969396ae5ad4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Untitled 1.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "92f73667cc46ce30",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Untitled 1.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "419944b7f7042f00",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "f81166c90acbb531",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Untitled 1.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "9f1b1aca5a3c1c13",
+  "lastOpenFiles": [
+    "Metodologia delle ricerche/Lezioni Seminariali.md",
+    "Sociologia della cultura/Capitolo III.md",
+    "Sociologia della cultura/Capitolo II.md",
+    "Sociologia della cultura/Capitolo I.md",
+    "Phil is a bitch.md",
+    "Untitled.md",
+    "Sociologia della cultura/1ntroduzione.md",
+    "Metodologia delle ricerche/Lezioni Frontali.md",
+    "Calendario.md",
+    "Sociologia della cultura/Lezione 21.09.md"
+  ]
+}
