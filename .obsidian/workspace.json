@@ -4,16 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "9f1b1aca5a3c1c13",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Phil is a bitch.md",
-            "mode": "source",
-            "source": false
+        "id": "72b961396edf4639",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9f1b1aca5a3c1c13",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Phil is a bitch.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        }
+        ]
       }
     ],
     "direction": "vertical"
@@ -31,7 +37,9 @@
             "type": "leaf",
             "state": {
               "type": "file-explorer",
-              "state": {}
+              "state": {
+                "sortOrder": "alphabetical"
+              }
             }
           },
           {
@@ -136,6 +144,9 @@
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
+  },
+  "ribbon": {
+    "mostRecentAction": ""
   },
   "active": "e5e87b301708b93c",
   "lastOpenFiles": [

@@ -4,5 +4,6 @@
   "translucency": true,
   "textFontFamily": "Liberation Sans",
   "interfaceFontFamily": "Liberation Sans",
-  "monospaceFontFamily": "Liberation Sans"
+  "monospaceFontFamily": "Liberation Sans",
+  "accentColor": ""
 }
